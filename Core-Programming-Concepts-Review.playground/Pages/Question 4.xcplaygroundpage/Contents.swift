@@ -21,7 +21,15 @@
  
  */
 // Answer question 4 below
+var diners = 400
+let saladBarMass = 200
+let soupMass = 150
+let mainCourse = 550
+let pizzaOven = 100
+let dateOfMeal = 1/16/2018
+let timeFrame =  2
 
+print("Only 'diners' is a variable. The amount of people coming to a meal may vary while time and food mass are arranged.")
 /*:
  ## Now share your understanding
  
