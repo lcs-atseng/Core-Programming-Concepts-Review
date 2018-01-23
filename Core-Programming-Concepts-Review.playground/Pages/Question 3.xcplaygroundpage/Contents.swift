@@ -14,7 +14,19 @@
  
  */
 // Answer question 3 below
+var piggyBank = 0
+// neighbor gives 10 dollar
+piggyBank += 10
+// earn 20 dollars doing jobs
+piggyBank += 20
+// spend half money
+piggyBank /= 2
+// triple
+piggyBank *= 3
+// spend 3 dollars
+piggyBank -= 3
 
+print(piggyBank)
 /*:
  ## Now share your understanding
  

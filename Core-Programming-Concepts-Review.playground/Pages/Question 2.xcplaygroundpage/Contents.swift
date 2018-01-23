@@ -18,6 +18,11 @@
  
  */
 // Answer question 2 below
+var numberOfCommits = 50
+var numberOfForks = 10
+let yearCreated = 2001
+let monthCreated = 6
+let dayCreated = 3
 
 /*:
  ## Now share your understanding
