@@ -22,7 +22,7 @@
  */
 // Answer question 4 below
 var diners = 400
-let saladBarMass = 200
+let saladBarMass = 200 
 let soupMass = 150
 let mainCourse = 550
 let pizzaOven = 100
